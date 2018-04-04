@@ -1,0 +1,7 @@
+struktur table
+
+- barang (id_barang, nama_barang, harga_barang, jenis_barang, deskripsi)
+- supplier (id_supplier,nama, telp , alamat)
+- custemer (id_pelanggan, nama, telp, alamat)
+- transaksi pembelian (id_transaksi, id_supplier, tanggal, total)
+
